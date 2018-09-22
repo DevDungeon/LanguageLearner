@@ -4,12 +4,16 @@ LangLearn, short for "Language Learner", is a tool designed to
 assist in learning a new language. It is similar to flash cards,
 where a word is presented and you must type it out.
 
-# Project Home Page
+## Project Home Page
 
 Visit the project page on DevDungeon.com for more information.
 
+https://www.github.com/DevDungeon/LanguageLearner
 https://www.devdungeon.com/content/langlearner
 
+## Screenshot
+
+![Screenshot of running app](screenshots/screenshot1.png)
 
 ## Installation
 
@@ -31,11 +35,3 @@ Or download this package as a zip file and install with setup.py
 
 nanodano@devdungeon.com
 
-
-## To Do
-
-* On startup, show list of available vocabulary lists to choose
-* Present word to be typed in foreign lang
-    * If success - show answer, read word from audio
-    * If error, repeat
-* Allow for reverse test (show native lang, must type foreign word)
