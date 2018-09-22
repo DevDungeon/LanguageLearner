@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='langlearn',
-    version='1.0.1',
+    version='1.0.2',
     description='Tool for practicing foreign language vocabulary and typing',
     url='https://github.com/DevDungeon/LanguageLearner',
     author='DevDungeon',
